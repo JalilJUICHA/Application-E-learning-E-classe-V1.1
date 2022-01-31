@@ -1,0 +1,38 @@
+[
+    {
+       "Name" : "Joe1",
+       "PaymentShedule" : "First1",
+       "BillNumber" : "01234567",
+       "AmountPaid" : "242354DHS",
+       "BalancePaid" : "433DHS",
+       "Date" : "5-Jan,2022"
+    },
+    {
+        "Name" : "Joe2",
+        "PaymentShedule" : "First2",
+        "BillNumber" : "3453344",
+        "AmountPaid" : "335655DHS",
+        "BalancePaid" : "345DHS",
+        "Date" : "5-Jan,2022"
+        
+    },
+    {
+        "Name" : "Joe3",
+        "PaymentShedule" : "First2",
+        "BillNumber" : "774844",
+        "AmountPaid" : "3876DHS",
+        "BalancePaid" : "35474DHS",
+        "Date" : "5-Jan,2022"
+        
+    },
+    {
+        "Name" : "Joe4",
+        "PaymentShedule" : "First2",
+        "BillNumber" : "346467",
+        "AmountPaid" : "353464DHS",
+        "BalancePaid" : "43654DHS",
+        "Date" : "5-JAN,2022"
+        
+    }
+    
+]
